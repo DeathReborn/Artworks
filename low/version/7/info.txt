@@ -1,0 +1,3 @@
+Version name: Death Reborn 7
+Internal codename: "The Omen"
+Release date: October 22, 2021
